@@ -1,6 +1,6 @@
-let price = 99.99;
+let saved = true; //Resultado: false
 
-price = 49.99;
+saved = !saved;
 
-showMessage(price);
+showMessage(saved);
 

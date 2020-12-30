@@ -1,2 +1,2 @@
-alert('This is a message');
+showMessage("Grip");
 

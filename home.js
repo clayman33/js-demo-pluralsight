@@ -1,6 +1,2 @@
-let saved = true; //Resultado: false
-
-saved = !saved;
-
-showMessage(saved);
+alert('This is a message');
 

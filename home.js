@@ -1,2 +1,2 @@
-showMessage("Grip");
+showMessage("Grip...");
 
